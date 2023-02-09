@@ -1,0 +1,4 @@
+Index,id,type,_3,name,_5,gender,country,disambiguation,_9,_10,_11,_12,_13,_14,_15,_16,_17,_18,_19,_20,_21,_22,_23,_24,_25,_26,_27,_28,_29,_30,_31,_32
+5,cb0f7efb-2135-4a04-94bf-aed9d5409226,Person,81,John Banister,"Banister, John",male,GB,17th century composer,,['000000011695259X'],"[{'sort-name': 'Banister the Elder, John', 'type': 'Artist name', 'end-date': '1679', 'alias': 'John Banister the Elder'}]",,8a754a16-0027-3a29-b6d7-2b40ea0481ed,Country,United Kingdom,United Kingdom,False,,,,,,,,,,,,1679-10-03,True,,
+7,8a725a2d-454f-4611-ac5c-24705e6f8e4e,Person,81,James Banister,"Banister, James",,,,,,,,,,,,,,,,,,,,,,,,,False,,
+92,f836fd92-2f08-47d4-9b68-8e9c6eb8fc28,Person,68,Joseph Lidster,"Lidster, Joseph",male,GB,writer,,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,Country,United Kingdom,United Kingdom,False,,,,,,,,,,,,,False,,

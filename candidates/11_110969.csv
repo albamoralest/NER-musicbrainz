@@ -1,0 +1,4 @@
+Index,id,type,_3,name,_5,gender,country,_8,_9,_10,_11,_12,_13,_14,_15,_16,_17,_18,_19,disambiguation,_21,_22,_23,_24,_25,_26,_27,_28,_29,_30
+4,713b2aed-79e4-40f2-8eef-15f4d0f49dab,Person,78,Jan Loper,"Loper, Jan",male,,,,,,,,,,,,,False,,,,,,,,,,,
+31,b3f2c65c-e4c8-4cfd-8ff5-a6a25e18ec25,Person,71,J. D. Wood,"Wood, J. D.",,,,,,,,,,,,,,False,,,,"[{'sort-name': 'JD Wood', 'alias': 'JD Wood'}]",,,,,,,
+39,e42bf9b5-ed73-4b87-9ad4-f31354cc2018,Person,70,J. D. Sumner,"Sumner, J. D.",male,US,489ce91b-6658-3307-9877-795b68554c98,Country,United States,United States,False,,,,,,,False,1940s fiddler and vocalist,,,,,,,,,,

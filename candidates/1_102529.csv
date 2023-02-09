@@ -1,0 +1,16 @@
+Index,id,type,_3,name,_5,gender,country,_8,_9,_10,_11,_12,_13,_14,_15,_16,_17,_18,_19,_20,_21,_22,_23,_24,_25,_26,_27,_28,_29,disambiguation
+26,70a442bd-4dcb-4448-b431-3a9678b4a663,Person,70,David Fitzgerald,"Fitzgerald, David",male,GB,['00162034407'],,,"[{'count': '1', 'name': 'classical'}, {'count': '1', 'name': 'celtic'}]",8a754a16-0027-3a29-b6d7-2b40ea0481ed,Country,United Kingdom,United Kingdom,False,,,,,,,,,,,1951-02,,False,
+55,330fe2f7-b5ac-49eb-ae35-83fc8ed2fc13,Person,67,Adam Fitzgerald,"Fitzgerald, Adam",,,,,,,,,,,,,,,,,,,,,,,,False,
+60,36a850b7-ec72-4fbf-832f-786f126d769c,Person,66,John Fitzgerald,"Fitzgerald, John",male,,,,"[{'sort-name': 'Fitzgerald, Johnny', 'alias': 'Johnny Fitzgerald'}]",,,,,,,,,,,,,,,,,,,False,
+61,b3c6b6e4-da06-4df6-b6db-49ebae27a5fb,Person,66,Karen FitzGerald,"FitzGerald, Karen",female,US,,,,,489ce91b-6658-3307-9877-795b68554c98,Country,United States,United States,False,791d0c22-5a31-410d-af12-5fd2553bb3a7,City,Wilmington,Wilmington,False,,,,,,,,False,
+67,b670e301-71c7-44e7-bae3-ab0edd4b6efc,Person,66,Warren Fitzgerald,"Fitzgerald, Warren",male,US,,['000000011849377X'],,,489ce91b-6658-3307-9877-795b68554c98,Country,United States,United States,False,71e57e77-7b2f-4244-8076-c5ecc1f62396,City,Newport Beach,Newport Beach,False,,,,,,1968-09-15,,False,
+71,cd25ffc7-4a3a-487a-a24d-74ccb3dc0346,Person,66,Jon Fitzgerald,"Fitzgerald, Jon",,,,,,,,,,,,,,,,,,,,,,,,False,
+75,1461ac88-b11e-4c99-a17a-130556feb942,Person,66,J. Fitzgerald,"Fitzgerald, J.",,,,,,,,,,,,,,,,,,,,,,,,False,
+78,0fc1c42f-0cf6-4279-b53f-6415fc8b094d,Person,66,Daire Fitzgerald,"Fitzgerald, Daire",female,IE,,,,,390b05d4-11ec-3bce-a343-703a366b34a5,Country,Ireland,Ireland,False,,,,,,,,,,,,,False,
+80,ea665863-c710-4b38-8aa6-c3a941e333b0,Person,66,Karl Fitzgerald,"Fitzgerald, Karl",male,,,,,,,,,,,,,,,,,,,,,,,False,
+83,79f12996-0bed-4330-bbbb-b8542dd0096b,Person,66,Jo Fitzgerald,Fitzgerald. Jo,female,AU,,,,,106e0bec-b638-3b37-b731-f53d507dc00e,Country,Australia,Australia,False,,,,,,,,,,,,,False,
+89,623087c1-7e85-454e-80da-d89358b9a3f3,Person,66,Barry Fitzgerald,"Fitzgerald, Barry",male,,,,,,,,,,,,,,,,,,,,,,,False,drums
+91,bb5b1e5e-fd63-45e5-ac90-136f3671c996,Person,66,Gary Fitzgerald,"Fitzgerald, Gary",male,,,,,,,,,,,,,,,,,,,,,,,False,cellist
+92,251a84a9-3b2d-473b-94c6-4701e97d668b,Person,66,Ken Fitzgerald,"Fitzgerald, Ken",male,,,,,,,,,,,,,,,,,,,,,,,False,
+93,76c48509-b8ec-4663-9b30-002ef4995f2c,Person,66,Mary Fitzgerald,"Fitzgerald, Mary",,,,,,,,,,,,,,,,,,,,,,,,False,
+96,e36fdf42-ac60-459b-8f6e-aeb4fab5706e,Person,66,Janice Fitzgerald,"Fitzgerald, Janice",female,,,,,,,,,,,,,,,,,,,,,,,False,
