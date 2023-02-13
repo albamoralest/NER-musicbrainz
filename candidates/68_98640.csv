@@ -1,6 +1,6 @@
 Index,id,type,_3,name,_5,gender,country,disambiguation,_9,_10,_11,_12,_13,_14,_15,_16,_17,_18,_19,_20,_21,_22,_23,_24,_25,_26,_27,_28,_29,_30,_31,_32
-9,f577aa6f-a37b-4ecb-8d87-19d092c13741,Person,86,Syd Howells,"Howells, Syd",,GB,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,Country,United Kingdom,United Kingdom,False,,,,,,,,,,,,,False,,,,
-17,f0b785d2-5ff0-4ed3-9cc8-b2249e75f986,Person,85,Jon Howells,"Howells, Jon",,,,,,,,,,,,,,,,,,,,,,,False,,,,
-19,4e418056-dbb2-4a52-b2d5-d6d470affa64,Person,85,Rob Howells,"Howells, Rob",,,,,,,,,,,,,,,,,,,,,,,False,,,,
-37,ec00d29a-5b3c-4444-aafa-0e4e1c90d588,Group,84,The Howells,"Howells, The",,,,,,,,,,,,,,,,,,,,,,,False,,,,
-39,487d4965-7645-4501-871b-79d0c31af238,,84,C. Howells,"Howells, C.",,,wrote & produced “Darkzone”,,,,,,,,,,,,,,,,,,,,False,,,,
+9,https://musicbrainz.org/artist/f577aa6f-a37b-4ecb-8d87-19d092c13741,Person,86,Syd Howells,"Howells, Syd",,GB,,,,8a754a16-0027-3a29-b6d7-2b40ea0481ed,Country,United Kingdom,United Kingdom,False,,,,,,,,,,,,,False,,,,
+17,https://musicbrainz.org/artist/f0b785d2-5ff0-4ed3-9cc8-b2249e75f986,Person,85,Jon Howells,"Howells, Jon",,,,,,,,,,,,,,,,,,,,,,,False,,,,
+19,https://musicbrainz.org/artist/4e418056-dbb2-4a52-b2d5-d6d470affa64,Person,85,Rob Howells,"Howells, Rob",,,,,,,,,,,,,,,,,,,,,,,False,,,,
+37,https://musicbrainz.org/artist/ec00d29a-5b3c-4444-aafa-0e4e1c90d588,Group,84,The Howells,"Howells, The",,,,,,,,,,,,,,,,,,,,,,,False,,,,
+39,https://musicbrainz.org/artist/487d4965-7645-4501-871b-79d0c31af238,,84,C. Howells,"Howells, C.",,,wrote & produced “Darkzone”,,,,,,,,,,,,,,,,,,,,False,,,,

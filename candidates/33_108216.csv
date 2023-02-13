@@ -1,3 +1,3 @@
 id,type,ext:score,name,sort-name,life-span.ended,disambiguation,gender,country,isni-list,alias-list,tag-list,area.id,area.type,area.name,area.sort-name,area.life-span.ended,begin-area.id,begin-area.type,begin-area.name,begin-area.sort-name,begin-area.life-span.ended,life-span.begin,ipi-list,end-area.id,end-area.type,end-area.name,end-area.sort-name,end-area.life-span.ended,life-span.end
-74702b7a-c6db-4594-ab85-a48297a61a8c,Person,100,C. Morgan,"Morgan, C.",False,,,,,,,,,,,,,,,,,,,,,,,,
-18204ecf-4940-443d-80e3-e4122b68e668,,97,C. Morgan,"Morgan, C.",False,songwriter,,,,,,,,,,,,,,,,,,,,,,,
+https://musicbrainz.org/artist/74702b7a-c6db-4594-ab85-a48297a61a8c,Person,100,C. Morgan,"Morgan, C.",False,,,,,,,,,,,,,,,,,,,,,,,,
+https://musicbrainz.org/artist/18204ecf-4940-443d-80e3-e4122b68e668,,97,C. Morgan,"Morgan, C.",False,songwriter,,,,,,,,,,,,,,,,,,,,,,,
